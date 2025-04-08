@@ -1,0 +1,8 @@
+/Users/vvv/Documents/OS/colloc2ST/build/CMakeFiles/SingletonDemo.dir
+/Users/vvv/Documents/OS/colloc2ST/build/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/colloc2ST/build/CMakeFiles/rebuild_cache.dir
+/Users/vvv/Documents/OS/colloc2ST/build/tests/CMakeFiles/SingletonTests.dir
+/Users/vvv/Documents/OS/colloc2ST/build/tests/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/colloc2ST/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/vvv/Documents/OS/colloc2ST/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/colloc2ST/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir

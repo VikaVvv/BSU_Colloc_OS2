@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/vvv/Documents/OS/colloc2ST/build",
+  "command": "/usr/bin/clang++  -I/Users/vvv/Documents/OS/colloc2ST/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/SingletonDemo.dir/src/main.cpp.o -c /Users/vvv/Documents/OS/colloc2ST/src/main.cpp",
+  "file": "/Users/vvv/Documents/OS/colloc2ST/src/main.cpp",
+  "output": "CMakeFiles/SingletonDemo.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/vvv/Documents/OS/colloc2ST/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/vvv/Documents/OS/colloc2ST/include -I/Users/vvv/Documents/OS/colloc2ST/build/_deps/catch2-src/single_include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/SingletonTests.dir/TestSingleton.cpp.o -c /Users/vvv/Documents/OS/colloc2ST/tests/TestSingleton.cpp",
+  "file": "/Users/vvv/Documents/OS/colloc2ST/tests/TestSingleton.cpp",
+  "output": "tests/CMakeFiles/SingletonTests.dir/TestSingleton.cpp.o"
+}
+]
